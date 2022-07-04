@@ -6,7 +6,7 @@
 
 团队由QiuLingYan（Python 组织能力｜准初一｜规划 推广）和4n0n4me（Python 互联网搜索能力 建站 批判精神｜准高一｜？）以及纸片君ee（Python HTML CSS 插画设计｜准高一｜？）联合创立，三位创始人具有强大的组织能力和互联网搜索、建站能力，富有批判精神和开源精神，是优秀的领导人。
 
-目前已有3位成员，他们分别是Light（Python 机器学习 监听｜准初三｜？）、orange（C++ OIer 建站｜准初二｜？）和gg（Java HTML CSS 插画设计 知识管理与注意力 哲学 写作······｜准初三｜临时合伙人），其中gg为临时成员，ee、Light和orange为常驻成员，下划主页可以看到他们和创始人的个人简介。
+目前已有3位成员，他们分别是Light（Python｜准初三｜？）、orange（C++ OIer 建站｜准初二｜？）和gg（Java HTML CSS 插画设计 知识管理与注意力 哲学 写作······｜准初三｜临时合伙人），其中gg为临时成员，ee、Light和orange为常驻成员，下划主页可以看到他们和创始人的个人简介。
 
 团队中的每个人都十分热爱互联网和编程，热衷于创造新事物，积极配合创始人建设团队（除了临时合伙人），相信这个团队可以越走越远，有朝一日，将会拥有强大的影响力。
 
@@ -49,9 +49,9 @@ jsh，准初二学生，除了计算机和文化课一无所长，叫我蓝橙/i
 
 ### 关于Hiyo Team的其他信息
 
-    Hiyo Team官方留言板 欢迎留言
-    Hiyo Team GitHub页面欢迎贡献
-    - 友情链接
-    XChat
-    HackChat
-    Tchat
+- Hiyo Team官方留言板 欢迎留言
+- Hiyo Team GitHub页面欢迎贡献
+- 友情链接
+   - XChat
+   - HackChat
+   - Tchat
