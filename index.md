@@ -48,6 +48,6 @@ jsh，准初二学生，除了计算机和文化课一无所长，叫我蓝橙/i
 - [Hiyo Team官方留言板](https://note.ms/hiyoteam/)欢迎留言
 - [Hiyo Team GitHub](https://github.com/Hiyo-Team)页面欢迎贡献
 ### 友情链接
-   - [Xchat]
+   - [Xchat](https://xq.kzw.ink/)
    - [HackChat](https://hack.chat)
    - [Tchat](https://chat.thz.cool/)
