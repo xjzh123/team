@@ -55,10 +55,10 @@ jsh，准初二学生，除了计算机和文化课一无所长，叫我蓝橙/i
 ### 团队合作信息
  目前HiyoTeam与以下平台合作：
  - [XQ Team.(线圈团队)](http://xq.kzw.ink/)
- - [GS Team.]()
+ - [GS Team.](https://www.zzchat.cf/team/)
  - [Dataeverything](https://dataeverything.top/)
  - [Zhangsoft(小张软件)](https://mrzhang365.github.io/zhangsoft/)
- - [星弈团队]()
+ - [星弈团队](https://blog.uerr.cn)
  
 
 
